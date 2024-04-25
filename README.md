@@ -22,8 +22,8 @@ Power BI Desktop: Construindo meu primeiro Dashboard
 
 
 [Projetos:] Segmentação de clientes e previsão de clientes
-<a "https://github.com/fabiangarrett93/Project-1"a/>
 
+link<https://github.com/fabiangarrett93/Project-1>
 Neste projeto foi utilizado
 Rstudio 
 Machine learn
