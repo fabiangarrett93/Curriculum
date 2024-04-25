@@ -1,8 +1,6 @@
 # Curriculum
 Fabian M. Garrett Junior 
 
-![Image](https://github.com/users/fabiangarrett93/projects/1/assets/57680572/a7005dcd-b5cb-459a-8a48-f3d75d9a9349)
-
 Sobre mim
 Sou formado em Administração de empresas desde o final de 2018. Atualmente, estou cursando Pósgraduação
 em Analytics e Data Science Empresarial, na ISLA Business Academy. Aprendo rápido por
