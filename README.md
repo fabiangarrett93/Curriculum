@@ -14,8 +14,11 @@ especialização e crescimento profissional para direcionar a minha carreira par
 
 Conhecimentos: 
 Introdução ao SQL com Microsoft SQL server 2017
+
 Python para data science
+
 Power BI Desktop: Construindo meu primeiro Dashboard
+
 Rstudio 
 Machine learn
 Random forest
