@@ -22,4 +22,5 @@ Random forest
 Decision Tree
 K-means
 
-[Projetos:](https://github.com/fabiangarrett93/Project-1)
+[Projetos:] Segmentação de clientes e previsão de clientes
+(https://github.com/fabiangarrett93/Project-1)
