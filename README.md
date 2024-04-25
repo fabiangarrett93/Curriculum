@@ -23,11 +23,14 @@ Power BI Desktop: Construindo meu primeiro Dashboard
 
 [Projetos:] Segmentação de clientes e previsão de clientes
 
-link<https://github.com/fabiangarrett93/Project-1>
+Projeto em Rstudio https://github.com/fabiangarrett93/Project-1
 Neste projeto foi utilizado
 Rstudio 
 Machine learn
 Random forest
 Decision Tree
 K-means
+
+Projeto em HTML escrito no VSCODE
+https://github.com/fabiangarrett93/Portfolio-HTML/tree/main
 
