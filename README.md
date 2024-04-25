@@ -11,19 +11,22 @@ em Analytics e Data Science Empresarial, na ISLA Business Academy. Aprendo rápi
 gostar de desafios e ser muito resiliente. Não costumo desistir fácil diante de adversidades, sou flexível e
 me adapto bem a mudanças. Além disso, sou motivado, organizado e bastante comunicativo. Busco
 especialização e crescimento profissional para direcionar a minha carreira para a área de Data Science.
+ 
+Cursos realizados pela plataforma ALURA:
 
-Conhecimentos: 
 Introdução ao SQL com Microsoft SQL server 2017
 
 Python para data science
 
 Power BI Desktop: Construindo meu primeiro Dashboard
 
+
+[Projetos:] Segmentação de clientes e previsão de clientes
+(https://github.com/fabiangarrett93/Project-1)
+Neste projeto foi utilizado
 Rstudio 
 Machine learn
 Random forest
 Decision Tree
 K-means
 
-[Projetos:] Segmentação de clientes e previsão de clientes
-(https://github.com/fabiangarrett93/Project-1)
