@@ -2,7 +2,7 @@
 Fabian M. Garrett Junior 
 
 
-<img src="https://github.com/fabiangarrett93/Curriculum/blob/main/Eu%20casamento%20-%20Copia.jpg?raw=true" />
+<img src="https://github.com/fabiangarrett93/Curriculum/blob/main/Eu.jpg?raw=true" />
 
 
 Sobre mim
