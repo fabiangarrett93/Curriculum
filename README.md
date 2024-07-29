@@ -7,8 +7,6 @@
 
 - Tudo que participo estou postando aqui [https://github.com/fabiangarrett93?tab=repositories](https://github.com/fabiangarrett93?tab=repositories)
 
-- Pergunte-me sobre **Power Bi, Python, Rstudio**
-
 - 📫 Como me contactar **Fabian.garrett@hotmail.com**
 
 - 📄 Um pouco mais sobre mim [https://github.com/fabiangarrett93/Curriculum/blob/main/CV%20FMGJ.pdf](https://github.com/fabiangarrett93/Curriculum/blob/main/CV%20FMGJ.pdf)
